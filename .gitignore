@@ -24,3 +24,7 @@ proguard/
 
 # Log Files
 *.log
+/App2/.idea
+/App2/AndroidPlot-Core/.idea
+/App2/AndroidPlot-Core/.classpath
+/App2/AndroidPlot-Core/.project

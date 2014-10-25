@@ -1,0 +1,7 @@
+:CONV_START
+:CONV_END
+:DB_START
+dbName=DexData,helperClass=db.DBHelper,dbVersion=1
+db.dao.GlucoseReadRecordTable
+dexAngel.dao.TimeMatechedRecordTable
+:DB_END
